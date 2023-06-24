@@ -4,6 +4,7 @@ Sabrhub is a Sabermetrics website project where you can analyze baseball games a
 # Technology
 Planning to use a MERN stack and looking at p5.js for data visualization
 
+- currently learning Node.js
 
 # Progress
 
