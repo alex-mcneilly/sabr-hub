@@ -3,6 +3,3 @@ const os = require('os');
 
 
 main() {
-
-
-}
